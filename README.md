@@ -1,6 +1,6 @@
 ![Screenshot 2023-06-14 091901](https://github.com/ShubhamAdelkar/ShubhamAdelkar/assets/117031893/aba764fb-9cd4-4f15-88f1-81776d2e8c41)
 <h1>Hi, I'm Shubham ⭐</h1>
-<p>I'm a front-end developer based in India. Skilled in creating responsive web applications. additionally using React JS and Firebase. I'm currently working on projects - some clones and a social media full stack app. also learning some other frontend technologies.</p>
+<p>I'm a front-end developer based in India. Skilled in creating responsive web applications. additionally using React JS and Firebase. I'm currently working on projects - some clones and a social media full-stack app. I'm also learning some other frontend technologies.</p>
 
 😁 Fun fact, I like editing movie & anime characters, I use the Abode After Effects motion design tool.
 <h3 align="left">Socials</h3>
