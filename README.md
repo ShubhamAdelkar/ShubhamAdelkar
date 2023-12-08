@@ -2,8 +2,7 @@
 
 <h1>Shubham A.⭐</h1>
 <p>I'm a front-end developer based in India. Skilled in creating responsive web applications. additionally using React JS and Firebase.</p>
-
-😁 Fun fact, I like editing movie & anime characters, I use the Abode After Effects motion design tool.
+😁 Fun fact, I like editing movie & anime characters, I use the Abode After Effects to edit them.
 <h3 align="left">Socials</h3>
 <small align="left">
 <a href="https://twitter.com/imbachhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imbachhu" height="30" width="40" /></a>
