@@ -2,8 +2,8 @@
 
 <h1>Shubham⭐</h1>
 <p>I'm a front-end developer based in India. Skilled in creating responsive web applications using React JS library. additionaly using JS & Typescript. my portfolio - https://my-portfolio-pot4.onrender.com/</p>
-
-
+<h3>Skils</h3>
+<p>JavaScript • React.js • Tailwindcss • Node.js • TypeScript • Shad-cdn</p>
 <h3 align="left">Socials</h3>
 <small align="left">
 <a href="https://twitter.com/imbachhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imbachhu" height="30" width="40" /></a>
