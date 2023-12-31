@@ -1,4 +1,3 @@
-![WEB DEV 3_00000](https://github.com/ShubhamAdelkar/ShubhamAdelkar/assets/117031893/3e7406af-0e8a-4342-8acf-24b00b011ff6)
 
 <h1>Shubham⭐</h1>
 <p>I'm a front-end developer based in India. Skilled in creating responsive web applications using the React JS library. additionally using Typescript, and Appwrite as the backend. To learn more about me, please visit my <a href="https://my-portfolio-pot4.onrender.com/" target="_blank">website</a>. Check out my projects with live links as well. </p>
