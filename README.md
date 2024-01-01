@@ -1,4 +1,5 @@
-![1500x500](https://github.com/ShubhamAdelkar/ShubhamAdelkar/assets/117031893/d8d13800-b61c-4157-963c-96b1693deb57)
+<img src="https://github.com/ShubhamAdelkar/ShubhamAdelkar/assets/117031893/d8d13800-b61c-4157-963c-96b1693deb57" style="border-radius: 40px;" alt="Your Image Description">
+
 
 <h1>Shubham A.⭐</h1>
 <p>I'm a front-end developer based in India. Skilled in creating responsive web applications using the React JS library. additionally using Typescript, and Appwrite as the backend. get more on my <a href="https://my-portfolio-pot4.onrender.com/" target="_blank">website</a>. Check out my projects with live links as well. </p>
