@@ -1,6 +1,6 @@
 
 <h1>Shubham A.⭐</h1>
-<p>I'm a front-end developer based in India. Skilled in creating responsive web applications using the React JS library. additionally using Typescript, and Appwrite as the backend. To learn more about me, please visit my <a href="https://my-portfolio-pot4.onrender.com/" target="_blank">website</a>. Check out my projects with live links as well. </p>
+<p>I'm a front-end developer based in India. Skilled in creating responsive web applications using the React JS library. additionally using Typescript, and Appwrite as the backend. get more on my <a href="https://my-portfolio-pot4.onrender.com/" target="_blank">website</a>. Check out my projects with live links as well. </p>
 <h3>Skils</h3>
 <p>JavaScript • React.js • Tailwind-css • Node.js • TypeScript • Shad-cdn • Responsiveness • Firebase • Appwrite • Sass</p>
 <h3 align="left">Socials</h3>
