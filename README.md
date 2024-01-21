@@ -10,4 +10,4 @@
 know more on my <a href="https://my-portfolio-pot4.onrender.com/" target="_blank">website</a>.</small>
 <hr>
 
-<img src="https://github.com/ShubhamAdelkar/ShubhamAdelkar/assets/117031893/d8d13800-b61c-4157-963c-96b1693deb57" style="border-radius: 40px;" alt="Your Image Description">
+<img src="https://github.com/ShubhamAdelkar/ShubhamAdelkar/assets/117031893/d8d13800-b61c-4157-963c-96b1693deb57" style="border-radius: 20px;" alt="Your Image Description">
