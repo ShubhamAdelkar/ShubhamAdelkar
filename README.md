@@ -1,7 +1,7 @@
 
 
 <h1>Shubham</h1>
-<p>I'm a front-end developer based in India. I use React, Typescript, and Appwrite as the backend. know more on my <a href="https://my-portfolio-pot4.onrender.com/" target="_blank">website</a>.</p>
+<p>I'm a front-end developer based in India. I use React, Javascript, and Appwrite as the backend. know more on my <a href="https://my-portfolio-pot4.onrender.com/" target="_blank">website</a>.</p>
 <b>Tech</b>
 <p>JavaScript • React.js • Tailwind-css • Node.js • TypeScript • Shad-cn • Responsiveness • Appwrite • Sass • Firebase • Accessibility</p>
 
