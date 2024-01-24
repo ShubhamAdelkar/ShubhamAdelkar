@@ -1,7 +1,7 @@
 
 <h1>Shubham A.</h1>
 <b>Tech</b>
-<p>JavaScript • React.js • Tailwind-css • Node.js • TypeScript • Shad-cn • Responsiveness • Appwrite • Sass • Firebase • Accessibility</p>
+<p>JavaScript • React.js • Tailwind-css • Node.js • Shad-cn • Responsiveness • Appwrite • Sass • Firebase • Accessibility</p>
 
 <small align="left">
 <a href="https://twitter.com/imbachhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imbachhu" height="20" width="30"/></a>
