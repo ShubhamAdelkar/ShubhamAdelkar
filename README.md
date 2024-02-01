@@ -1,5 +1,5 @@
 
-<h1>Shubham Adelkar</h1>
+<h1>ꜱʜᴜʙʜᴀᴍ ᴀᴅᴇʟᴋᴀʀ</h1>
 
 `Javascript` `React.js` `Node.js` `Firebase` 
 `Tailwind-CSS` `Appwrite` `Shad-CN` `Sass`
