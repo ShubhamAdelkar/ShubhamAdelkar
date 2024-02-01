@@ -1,5 +1,5 @@
 
-<h1>Shubham A.</h1>
+<h1>Shubham Adelkar</h1>
 
 `Javascript` `React.js` `Node.js` `Firebase` 
 `Tailwind-CSS` `Appwrite` `Shad-CN` `Sass`
