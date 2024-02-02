@@ -1,8 +1,8 @@
 
-<h1>SHUBHAM A.</h1>
+<h1>Shubham Adelkar</h1>
 
-`JAVASCRIPT` `REACT.JS` `NODE.JS` `FIREBASE` 
-`TAILWIND-CSS` `APPWRITE` `SHAD-CN` `SASS`
+`Javascript` `React.js` `Node.js` `Firebase` 
+`Tailwind-css` `Appwrite` `Shadcn-ui` `Sass`
 <p align="left">
 <a href="https://twitter.com/imbachhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imbachhu" height="20" width="30"/></a>
 <a href="https://linkedin.com/in/shubham-adelkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-adelkar" height="20" width="30" /></a>
