@@ -1,7 +1,7 @@
 
-<h1>Shubham Adelkar</h1>
+<h2>Shubham Adelkar</h2>
 
-`Javascript` `React.js` `Node.js` `Firebase` 
+`Javascript` `Algorithms` `React.js` `Node.js` `Firebase` 
 `Tailwind-css` `Appwrite` `Shadcn-ui`
 <p align="left">
 <a href="https://twitter.com/imbachhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imbachhu" height="20" width="30"/></a>
