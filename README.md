@@ -1,5 +1,5 @@
-`Javascript` `Algorithms` `React.js` `Node.js` `Firebase` 
-`Tailwind-css` `Appwrite` `Shadcn-ui`
+`Javascript` `Ruby` `React.js` `Node.js` `Firebase` 
+`Tailwind-css` `Express.js` `Chakra-ui` `Cypress` 
 
 <!--
 <p align="left">
