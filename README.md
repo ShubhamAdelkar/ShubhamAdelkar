@@ -1,5 +1,4 @@
-<b> Frontend Developer based in India. ⭐</b>
-<br>
+<b> Frontend Developer⭐</b>
 <br>
 `Javascript` `Ruby` `React.js` `Node.js` `Firebase` 
 `Tailwind-css` `Express.js` 
