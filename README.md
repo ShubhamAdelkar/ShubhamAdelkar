@@ -2,7 +2,7 @@
 <br>
 <br>
 `Javascript` `Ruby` `React.js` `Node.js` `Firebase` 
-`Tailwind-css` `Express.js` `Chakra-ui` `Cypress` 
+`Tailwind-css` `Express.js` 
 
 <!--
 <p align="left">
