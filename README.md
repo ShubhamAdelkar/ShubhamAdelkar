@@ -1,7 +1,7 @@
 <b> Frontend Developer⭐</b>
 <br>
-`Javascript` `Ruby` `React.js` `Node.js` `Firebase` 
-`Tailwind-css` `Express.js` 
+`Javascript` `React.js` `Node.js` `Firebase` 
+`Express.js` `Tailwind` 
 
 <!--
 <p align="left">
