@@ -1,7 +1,7 @@
 <b> Frontend Developer⭐</b>
 <br>
 `Javascript` `React.js` `Next.js` `Node.js` `Firebase` 
-`Express.js` `Tailwind` 
+`Express.js` `MongoDB` 
 
 <!--
 <p align="left">
